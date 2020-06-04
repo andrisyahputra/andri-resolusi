@@ -1,7 +1,7 @@
 RENCANA KEDEPAN SAYA
 -SAYA AKAN MEMBANGUN WEB PROFIL
--SAYA AKAN MEMBANGUN WEB BERITA
-  * Harus memiliki Bahan untuk menjadi beritakan*
+ * Memakai Boostsrap 4*
 -SAYA AKAN MEMBANGUN WEB SHOP
  * Harus memiliki Bahan untuk siap di jual*
 -SAYA AKAN MEMBANGUN WEB FILM ANIME
+-Menjadi Youtubers
